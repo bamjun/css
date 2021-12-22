@@ -1,14 +1,14 @@
 body {
-    background: brown;
+    background: url("https://w.namu.la/s/0b37ca973c31f23cf3e58137ce18c0668ba08220a176f480e7c66fa628a5724a4c90385043fe463af2acbcadedc3f58382a56164be6a1403b25572e6b50fda63857711444cfbc36c815a0a6e1c0d8e9d687dad1e71d77ce5aa44a5f22b30c4b1");
     background-size: 100%;
     background-position: center;
 }
 .container {
     width: 500px;
     height: 300px;
-    margin: 200px auto;
+    margin: 10px auto;
 }
-.glass{
+.glass {
     background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
